@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\build\CMakeFiles\b857a88a0491ab61be782f796bf27017\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\build\SimpleEngineCore\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{03F50237-4993-35F5-993E-01648077000E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8F59363F-02C5-373F-9C3E-B6236F35DEC9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

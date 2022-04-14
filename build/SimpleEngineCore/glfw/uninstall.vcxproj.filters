@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\build\CMakeFiles\7cff53c22d279fbbd6ae86552f5bfe2d\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\external\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\build\SimpleEngineCore\glfw\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{03F50237-4993-35F5-993E-01648077000E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
