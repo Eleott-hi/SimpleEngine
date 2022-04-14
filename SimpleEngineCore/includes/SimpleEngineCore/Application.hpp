@@ -1,5 +1,7 @@
 #pragma once
 
+#include <memory>
+
 namespace SimpleEngine {
 
 	class Application
@@ -16,5 +18,8 @@ namespace SimpleEngine {
 		virtual int start(unsigned int widow_width, unsigned int window_height, const char* title);
 		
 		virtual void on_update(){}
+
+	private:
+		std::unique_ptr<class Window> m_pWindow;
 	};
 }

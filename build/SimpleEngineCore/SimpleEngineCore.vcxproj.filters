@@ -4,12 +4,21 @@
     <ClCompile Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\SimpleEngineCore\src\SimpleEngineCore\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\SimpleEngineCore\src\SimpleEngineCore\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\SimpleEngineCore\includes\SimpleEngineCore\Application.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\SimpleEngineCore\includes\SimpleEngineCore\Log.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\SimpleEngineCore\includes\SimpleEngineCore\Event.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lapte\OneDrive\School_21\Tutorial\SimpleEngine\SimpleEngineCore\src\SimpleEngineCore\Window.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

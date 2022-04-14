@@ -1,0 +1,10 @@
+^C:\USERS\LAPTE\ONEDRIVE\SCHOOL_21\TUTORIAL\SIMPLEENGINE\BUILD\CMAKEFILES\C74283EC80ED9BC31CCC5111412BC7E3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/lapte/OneDrive/School_21/Tutorial/SimpleEngine -BC:/Users/lapte/OneDrive/School_21/Tutorial/SimpleEngine/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/lapte/OneDrive/School_21/Tutorial/SimpleEngine/build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
